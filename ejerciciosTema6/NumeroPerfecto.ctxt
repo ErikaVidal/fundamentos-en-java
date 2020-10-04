@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumeroPerfecto
+comment1.params=numero
+comment1.target=NumeroPerfecto(int)
+comment2.params=
+comment2.target=void\ Divisores()
+comment3.params=
+comment3.target=void\ sumaDivisores()
+comment4.params=
+comment4.target=void\ imprimirSuma()
+numComments=5
